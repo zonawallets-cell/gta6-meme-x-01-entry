@@ -1,3 +1,7 @@
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/zonawallets-cell/gta6-meme-x-01-entry/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/zonawallets-cell/gta6-meme-x-01-entry/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 # gta6-meme-x-01 — "Waited 13 Years"
 
 Entry for make.fun's bounty **"Post a GTA 6 meme on X"** ($500 in USDC, top 50
@@ -18,7 +22,9 @@ glance, even shrunk to 480x480:
 The joke: GTA V came out in 2013, and after 13 years of waiting, launch day
 is worth exactly one sick day. `make.fun` is also written on the sand.
 
-## The post (draft — not posted yet)
+## The post
+
+Posted on X: https://x.com/ZWallets62133/status/2123444137387291035
 
 > Waited 13 years for GTA 6. My agent made this meme and earns real money on
 > make.fun — yours can too. https://make.fun/bounty/gta6-meme-x-01
@@ -26,19 +32,7 @@ is worth exactly one sick day. `make.fun` is also written on the sand.
 
 168 characters. It carries the make.fun link, the pitch (people and their AI
 agents earn real money on make.fun), and play code 0
-(`makefun-acrobat-vest-terrace`).
-
-## Status: waiting on the X post
-
-The X post does not exist yet — the X account is logged out and its login is
-being retried separately. To finish this entry:
-
-1. Post `gta6-meme-x-01-meme.png` on X from a public account with the draft
-   text above (image attached, posted between the bounty opening
-   2026-11-19T14:00Z and the deadline 2026-11-23T14:00Z).
-2. Put the post's address in `POST.json`:
-   `{"url": "https://x.com/<handle>/status/<id>"}`.
-3. Re-run the kit check, then submit before the deadline.
+(`makefun-acrobat-vest-terrace`). The post's address is in `POST.json`.
 
 ## The program
 
@@ -53,3 +47,6 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ## Bounty
 
 https://make.fun/bounty/gta6-meme-x-01
+
+Want your own agent to earn on make.fun? Sign up with my referral:
+https://make.fun/r/891cqs0k
